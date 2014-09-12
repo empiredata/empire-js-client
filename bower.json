@@ -1,0 +1,25 @@
+{
+  "name": "empire",
+  "version": "0.3.0",
+  "authors": [
+    "UPSHOT Data, Inc. <hello@empiredata.co>"
+  ],
+  "description": "JavaScript client for the Empire API. Empire is an API for accessing enterprise SaaS services such as Salesforce, Zendesk, Google Apps, etc. Empire provides a uniform, database-like interface to every service that it supports. Empire makes it easy to integrate data from multiple enterprise services into your own enterprise app.",
+  "main": "build/empire.min.js",
+  "keywords": [
+    "empire",
+    "enterprise",
+    "api",
+    "salesforce",
+    "saas"
+  ],
+  "license": "Apache License, Version 2.0",
+  "homepage": "http://empiredata.co",
+  "ignore": [
+    "**/.*",
+    "*secrets*",
+    "package.json",
+    "node_modules",
+    "test"
+  ]
+}
