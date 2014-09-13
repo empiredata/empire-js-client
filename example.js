@@ -1,5 +1,5 @@
 if (typeof Empire === 'undefined') {
-  var Empire = require('./lib/empire.js').Empire;
+  var Empire = require('empire').Empire;
 }
 
 var appId = (typeof process !== 'undefined') ? process.argv[2] : location.hash.split("#")[1];

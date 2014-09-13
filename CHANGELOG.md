@@ -1,3 +1,9 @@
+## 0.3.1
+
+Features:
+
+  - package.json file for NPM distribution
+
 ## 0.3
 
 Initial port from Ruby client.
