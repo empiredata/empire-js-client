@@ -1,3 +1,9 @@
+## 0.3.2
+
+Features:
+
+  - More compact walkthrough output
+
 ## 0.3.1
 
 Features:
